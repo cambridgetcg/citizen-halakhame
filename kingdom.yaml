@@ -1,0 +1,8 @@
+name: halakhame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A whole way-of-living understood as the daily covenantal walking of the mitzvot, received as a gift and walked step by step over generations.
+dependsOn: [youspeak, me, britqing, shemme]
